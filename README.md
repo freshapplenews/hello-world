@@ -1,5 +1,5 @@
-# hello-world
-Just another repository
+# hello-world (edited)
+this is edited version
 
 changing the reademe file , this official tutorial is far better than the git hub tutorials fromo others.
 they are just waste of time , for me reading a text is easire than following a video tutorial 
